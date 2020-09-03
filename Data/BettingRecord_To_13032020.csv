@@ -1,0 +1,695 @@
+"","Date","Championnat","Home_id","Away_id","Bet","Bookmaker","Odd","Stake","Result","EarningsMatch","x","n"
+"1",2019-12-31,"NBA","SAS","GSW","GSW","1xBet",5.95,10,0,-10,1,1
+"2",2019-12-31,"NBA","HOU","DEN","DEN","1xBet",2.568,10,0,-10,1,2
+"3",2019-12-31,"NBA","IND","PHI","IND","1xBet",2.13,20,1,22.6,1,3
+"4",2019-12-31,"NBA","OKC","DAL","OKC","1xBet",2.13,30,1,33.9,1,4
+"5",2019-12-31,"NBA","CHA","BOS","BOS","1xBet",1.32,10,1,3.2,1,5
+"6",2019-12-31,"NBA","SAC","LAC","SAC","1xBet",3.42,20,0,-20,1,6
+"7",2020-01-01,"NBA","WAS","ORL","WAS","1xBet",2.25,62.87,0,-62.87,1,7
+"8",2020-01-09,"NBA","PHI","BOS","PHI","Admiral",1.76,9,1,6.84,1,8
+"9",2020-01-09,"NBA","MIN","POR","MIN","Admiral",1.98,6,1,5.88,1,9
+"10",2020-01-09,"NBA","DET","CLE","DET","Admiral",1.3,9,0,-9,1,10
+"11",2020-01-10,"Premier League","Sheffield","West Ham","Sheffield","Admiral",2.05,8,1,8.4,1,11
+"12",2020-01-10,"Premier League","Sheffield","West Ham","X","Admiral",3.35,4,0,-4,1,12
+"13",2020-01-10,"Ligue 1","Rennes","Marseille","Rennes","Admiral",2.7,6,0,-6,1,13
+"14",2020-01-10,"NBA","LAC","GSW","GSW","Admiral",9.8,2,0,-2,1,14
+"15",2020-01-10,"NBA","CHI","IND","IND","Admiral",1.62,20,1,12.4,1,15
+"16",2020-01-10,"NBA","WAS","ATL","ATL","Admiral",1.79,10,0,-10,1,16
+"17",2020-01-11,"Premier League","Crystal Palace","Arsenal","Arsenal","Admiral",1.83,5,0,-5,1,17
+"18",2020-01-11,"Premier League","Crystal Palace","Arsenal","X","Admiral",3.8,3,1,8.4,1,18
+"19",2020-01-11,"Serie A","Cagliari","Milan AC","Milan AC","Admiral",2.3,5,1,6.5,1,19
+"20",2020-01-11,"Serie A","Cagliari","Milan AC","X","Admiral",3.4,3,0,-3,1,20
+"21",2020-01-11,"Premier League","Chelsea","Burnley","Burnley","Admiral",10,2,0,-2,1,21
+"22",2020-01-11,"Premier League","Tottenham","Liverpool","Liverpool","Admiral",1.7,7,1,4.9,1,22
+"23",2020-01-11,"Premier League","Worlverhampton","Newcastle","Wolverhampton","Admiral",1.48,4,0,-4,1,23
+"24",2020-01-11,"Premier League","Worlverhampton","Newcastle","Newcastle","Admiral",7,2,0,-2,1,24
+"25",2020-01-11,"Premier League","Manchester United","Norwich","Manchester United","Admiral",1.33,6,1,1.98,1,25
+"26",2020-01-11,"Premier League","Manchester United","Norwich","Norwich","Admiral",9.5,2,0,-2,1,26
+"27",2020-01-11,"Premier League","Everton","Brighton","Everton","Admiral",1.92,4,1,3.68,1,27
+"28",2020-01-11,"Premier League","Everton","Brighton","Brighton","Admiral",4,4,0,-4,1,28
+"29",2020-01-11,"Serie A","Lazio","Naples","X","Admiral",3.7,6,0,-6,1,29
+"30",2020-01-11,"Ligue 1","Bordeaux","Lyon","Lyon","Admiral",2.4,6,1,8.4,1,30
+"31",2020-01-11,"Ligue 1","Angers","Nice","Angers","Admiral",1.78,4,0,-4,1,31
+"32",2020-01-11,"Ligue 1","Angers","Nice","Nice","Admiral",4.75,4,0,-4,1,32
+"33",2020-01-11,"Ligue 1","Toulouse","Brest","Toulouse","Admiral",2.3,7,0,-7,1,33
+"34",2020-01-11,"Ligue 1","Metz","Strasbourg","Strasbourg","Admiral",2.85,7,0,-7,1,34
+"35",2020-01-11,"Serie A","Inter Milan","Atalanta","X","Admiral",3.65,7,1,18.55,1,35
+"36",2020-01-11,"NBA","HOU","MIN","HOU","Admiral",1.16,5,1,0.8,1,36
+"37",2020-01-12,"NBA","DET","CHI","CHI","Admiral",2.37,8,1,10.96,1,37
+"38",2020-01-12,"NBA","OKC","LAL","OKC","Admiral",1.28,6,0,-6,1,38
+"39",2020-01-12,"NBA","POR","MIL ","MIL ","Admiral",1.4,3,1,1.2,1,39
+"40",2020-01-12,"NBA","DAL","PHI","DAL","Admiral",1.71,13,1,9.23,1,40
+"41",2020-01-12,"NBA","BOS","NOP","NOP","Admiral",6.2,5,0,-5,1,41
+"42",2020-01-12,"Serie A","Udinese","Sassuolo","X2","Admiral",1.61,8,0,-8,1,42
+"43",2020-01-12,"Serie A","Hellas Verona","Genoa","Genoa","Admiral",3.4,6,0,-6,1,43
+"44",2020-01-12,"Serie A","Sampodria","Brescia","Brescia","Admiral",4,6,0,-6,1,44
+"45",2020-01-12,"Serie A","Torino","Bologna","Bologna","Admiral",3.15,7,0,-7,1,45
+"46",2020-01-12,"Serie A","Fiorentina","SPAL","SPAL","Admiral",6.5,5,0,-5,1,46
+"47",2020-01-12,"Ligue 1","Dijon","Lille","Lille","Admiral",1.9,6,0,-6,1,47
+"48",2020-01-12,"Ligue 1","Saint-Etienne","Nantes","Saint-Etienne","Admiral",2.6,6,0,-6,1,48
+"49",2020-01-12,"Premier League","Bournemouth","Watford","Watford","Admiral",2.8,7,1,12.6,1,49
+"50",2020-01-13,"Serie A","Parma","Lecce","Parma","Admiral",1.85,8,1,6.8,1,50
+"51",2020-01-17,"NBA","PHI","CHI","PHI","Admiral",1.3,45,1,13.5,1,51
+"52",2020-01-17,"NBA","IND","MIN","IND","Admiral",1.29,58,1,16.82,1,52
+"53",2020-01-18,"Premier League","Arsenal","Sheffield","Sheffield","Admiral",4,6,0,-6,1,53
+"54",2020-01-18,"Premier League","Brighton","Aston Villa","X","Admiral",4.25,6,1,19.5,1,54
+"55",2020-01-18,"Premier League","Norwich","Bournemouth","Bournemouth","Admiral",3.15,6,0,-6,1,55
+"56",2020-01-18,"Premier League","Southampton","Wolverhampton","Wolverhampton","Admiral",3,6,1,12,1,56
+"57",2020-01-18,"Premier League","West Ham","Everton","Everton","Admiral",2.45,6,0,-6,1,57
+"58",2020-01-18,"Premier League","Newcastle","Chelsea","Newcastle","Admiral",6,6,1,30,1,58
+"59",2020-01-18,"Championship","Birmingham","Cardiff","X","Admiral",3.25,3,1,6.75,1,59
+"60",2020-01-18,"Championship","Bristol","Barnsley","Bristol","Admiral",2.1,6,1,6.6,1,60
+"61",2020-01-18,"Championship","Derby","Hull City","Derby","Admiral",2.2,6,1,7.2,1,61
+"62",2020-01-18,"Championship","Milwall","Reading","Milwall","Admiral",2.15,6,1,6.9,1,62
+"63",2020-01-18,"Championship","Preston ","Charlton","X","Admiral",4.25,6,0,-6,1,63
+"64",2020-01-18,"Championship","Sheffield Wednesday","Blackburn","Sheffield Wednesday","Admiral",1.9,6,0,-6,1,64
+"65",2020-01-18,"Championship","Swansea","Wigan","Swansea","Admiral",1.98,6,1,5.88,1,65
+"66",2020-01-18,"Serie A","Naples","Fiorentina","Fiorentina","Admiral",5.5,5,1,22.5,1,66
+"67",2020-01-18,"Liga Primera","Eibar","Atletico Madrid","X","Admiral",3.6,10,0,-10,1,67
+"68",2020-01-18,"NBA","NOP","LAC","LAC","Admiral",1.43,20,1,8.6,1,68
+"69",2020-01-19,"NBA","BOS","PHO","BOS","Admiral",1.36,11,0,-11,1,69
+"70",2020-01-19,"NBA","ATL","DET","DET","Admiral",1.76,11,1,8.36,1,70
+"71",2020-01-19,"NBA","NYK","PHI","PHI","Admiral",1.53,11,1,5.83,1,71
+"72",2020-01-19,"NBA","MIN","TOR","TOR","Admiral",1.45,11,1,4.95,1,72
+"73",2020-01-19,"NBA","HOU","LAL","LAL","Admiral",1.97,11,1,10.67,1,73
+"74",2020-01-19,"NBA","GSW","ORL","ORL","Admiral",1.37,11,0,-11,1,74
+"75",2020-01-19,"NBA","OKC","POR","OKC","Admiral",1.37,11,1,4.07,1,75
+"76",2020-01-19,"Serie A","Milan AC","Udinese","Udinese","Admiral",6.5,8,0,-8,1,76
+"77",2020-01-19,"Liga Primera","Majorque","Valence","X","Admiral",3.4,11,0,-11,1,77
+"78",2020-01-19,"Liga Primera","Betis Séville","Real Sociedad","X","Admiral",3.6,11,0,-11,1,78
+"79",2020-01-19,"Championship","Notthingham","Luton","Notthingham","Admiral",1.57,11,1,6.27,1,79
+"80",2020-01-19,"Premier League","Liverpool","Manchester United","Manchester United","Admiral",7.5,13,0,-13,1,80
+"81",2020-01-19,"Premier League","Burnley","Leicester","Burnley","Admiral",4.25,13,1,42.25,1,81
+"82",2020-01-19,"Bundesliga","Paderborn","Bayer Leverkusen","X","Admiral",4.4,13,0,-13,1,82
+"83",2020-01-19,"Liga Primera","Athletic Bilbao","Celta Vigo","Celta Vigo","Admiral",4.25,13,0,-13,1,83
+"84",2020-01-19,"Liga Primera","Villareal","Espanyol Barcelone","X","Admiral",3.6,13,0,-13,1,84
+"85",2020-01-19,"Serie A","Genoa","AS Rome","AS Rome","Admiral",1.9,13,1,11.7,1,85
+"86",2020-01-19,"Serie A","Bologna","Hellas Verone","Hellas Verone","Admiral",3.55,13,0,-13,1,86
+"87",2020-01-19,"Serie A","Lecce","Inter Milan","X","Admiral",6,13,1,65,1,87
+"88",2020-01-19,"Serie A","Brescia","Cagliari","Brescia","Admiral",2.8,13,0,-13,1,88
+"89",2020-01-19,"NBA","SAS","MIA","MIA","Admiral",1.85,50,0,-50,1,89
+"90",2020-01-19,"Serie A","Juventus","Parme","Parme","Admiral",13,5,0,-5,1,90
+"91",2020-01-21,"Premier League","Crystal Palace","Southampton","Southampton","Admiral",2.75,24,1,42,1,91
+"92",2020-01-21,"Premier League","Bournemouth","Brighton","Brighton","Admiral",2.6,18,0,-18,1,92
+"93",2020-01-21,"Championship","Barnsley","Preston","Preston","Admiral",2.7,18,1,30.6,1,93
+"94",2020-01-21,"Premier League","Chelsea","Arsenal","Arsenal","Admiral",4.75,18,0,-18,1,94
+"95",2020-01-21,"Premier League","Everton","Newcastle","Newcastle","Admiral",7.5,18,0,-18,1,95
+"96",2020-01-21,"Premier League","Aston Villa","Watford","X","Admiral",3.4,18,0,-18,1,96
+"97",2020-01-21,"Championship","Middlesbrough","Birmingham","Middlesbrough","Admiral",2,18,0,-18,1,97
+"98",2020-01-21,"NBA","DAL","LAC","DAL","Admiral",1.76,18,0,-18,1,98
+"99",2020-01-22,"Championship","Charlton","Fulham","X","Admiral",3.6,16,1,41.6,1,99
+"100",2020-01-22,"Championship","Notthingham","Reading","Reading","Admiral",3.8,16,0,-16,1,100
+"101",2020-01-22,"Premier League","Manchester United","Burnley","Burnley","Admiral",7.5,16,1,104,1,101
+"102",2020-01-22,"Premier League","Tottenham","Norwich","Norwich","Admiral",8,16,0,-16,1,102
+"103",2020-01-22,"Premier League","Leicester","West Ham","West Ham","Admiral",6.5,16,0,-16,1,103
+"104",2020-01-22,"NBA","NOP","SAS","SAS ","Admiral",2.3,20,1,26,1,104
+"105",2020-01-22,"NBA","CHI","MIN","CHI","Admiral",1.81,20,1,16.2,1,105
+"106",2020-01-22,"NBA","ATL","LAC","LAC","Admiral",1.61,20,0,-20,1,106
+"107",2020-01-22,"NBA","TOR ","PHI","TOR","Admiral",1.34,20,1,6.8,1,107
+"108",2020-01-22,"NBA","ORL","OKC","OKC","Admiral",2.07,20,1,21.4,1,108
+"109",2020-01-23,"NBA","BRK","LAL","LAL","Admiral",1.46,20,1,9.2,1,109
+"110",2020-01-23,"NBA","CLE","WAS","WAS","Admiral",2.11,25,1,27.75,1,110
+"111",2020-01-23,"NBA","POR","DAL","POR","Admiral",2.43,20,0,-20,1,111
+"112",2020-01-24,"Liga Primera","Osasuna","Levante","Levante","Admiral",5,22,0,-22,1,112
+"113",2020-01-24,"Ligue 1","Nice","Rennes","X","Admiral",3.15,22,1,47.3,1,113
+"114",2020-01-24,"Serie A","Brescia","Milan AC","Milan AC","Admiral",1.65,22,1,14.3,1,114
+"115",2020-01-24,"NBA","DET","MEM","MEM","Admiral",1.93,25,1,23.25,1,115
+"116",2020-01-24,"NBA","ORL","BOS","BOS","Admiral",1.95,25,1,23.75,1,116
+"117",2020-01-24,"NBA","MIN","HOU","HOU","Admiral",1.4,25,1,10,1,117
+"118",2020-01-24,"NBA","CHI","SAC","CHI","Admiral",1.79,25,0,-25,1,118
+"119",2020-01-24,"NBA","SAS","PHO","SAS ","Admiral",1.51,25,0,-25,1,119
+"120",2020-01-24,"NBA","GSW","IND","IND","Admiral",1.41,25,1,10.25,1,120
+"121",2020-01-25,"Liga Primera","Espanyol Barcelone","Athletic Bilbao","Espanyol Barcelone","Admiral",2.45,25,0,-25,1,121
+"122",2020-01-25,"Bundesliga","Wolfsburg","Hertha Berlin","X","Admiral",3.75,25,0,-25,1,122
+"123",2020-01-25,"Bundesliga","Union Berlin","Augsburg","Union Berlin","Admiral",2.15,25,1,28.75,1,123
+"124",2020-01-25,"Bundesliga","Borussia Munchengladbach","Mainz","X","Admiral",4.75,25,0,-25,1,124
+"125",2020-01-25,"Bundesliga","Eintracht Francfort","Lipzieg","Lipzieg","Admiral",1.7,25,0,-25,1,125
+"126",2020-01-25,"Bundesliga","Fribourg","Pederborn","Fribourg","Admiral",1.7,25,0,-25,1,126
+"127",2020-01-25,"Liga Primera","Valence","Barcelone","X","Matchpoint",4.25,25,0,-25,1,127
+"128",2020-01-25,"Eredivisie","Heerenveen","AZ Alkmaar","Heerenveen","Admiral",3.7,25,0,-25,1,128
+"129",2020-01-25,"Championship","Stoke City","Swansea","Stoke City","Admiral",2,25,1,25,1,129
+"130",2020-01-25,"Serie A","SPAL","Bologna","X","Admiral",3.35,25,0,-25,1,130
+"131",2020-01-25,"Ligue 1","Marseille","Angers","Marseille","Admiral",1.95,25,0,-25,1,131
+"132",2020-01-25,"Bundesliga","Bayern Munich","Schalke 04","Schalke 04","Admiral",15,25,0,-25,1,132
+"133",2020-01-25,"Liga Primera","Alaves","Villareal","Villareal","Admiral",2.55,25,1,38.75,1,133
+"134",2020-01-25,"Serie A","Fiorentina","Genoa","Genoa","Admiral",4.5,25,0,-25,1,134
+"135",2020-01-25,"Eredivisie","Heracles Almelo","Feyenoord","Heracles Almelo","Admiral",4,17,0,-17,1,135
+"136",2020-01-25,"Eredivisie","Waalwijk","Venlo","Waalwijk","Admiral",1.95,17,0,-17,1,136
+"137",2020-01-25,"Serie A","Torino","Atalanta","Atalanta","Admiral",1.8,17,1,13.6,1,137
+"138",2020-01-25,"NBA","UTA","DAL","UTA","Admiral",1.5,17,1,8.5,1,138
+"139",2020-01-25,"Ligue 1","Saint-Etienne","Nimes","Saint-Etienne","Admiral",1.78,17,1,13.26,1,139
+"140",2020-01-25,"Ligue 1","Monaco","Strasbourg","Monaco","Admiral",1.63,17,0,-17,1,140
+"141",2020-01-25,"Ligue 1","Montpellier","Dijon","Montpellier","Admiral",1.67,17,1,11.39,1,141
+"142",2020-01-25,"Ligue 1","Brest","Amiens","Brest","Admiral",2.05,17,1,17.85,1,142
+"143",2020-01-25,"Eredivisie","Sparta Rotterdam","Fortuna Sittard","Sparta Rotterdam","Admiral",1.6,17,0,-17,1,143
+"144",2020-01-25,"Liga Primera","Séville","Grenade","X","Admiral",4.5,15,0,-15,1,144
+"145",2020-01-26,"NBA","DET","BRK","BRK","Admiral",1.74,30,1,22.2,1,145
+"146",2020-01-26,"NBA","MIN","OKC","OKC","Admiral",1.97,30,1,29.1,1,146
+"147",2020-01-26,"NBA","CLE","CHI","CHI","Admiral",1.88,30,1,26.4,1,147
+"148",2020-01-26,"NBA","PHI","LAL","PHI","Admiral",2.37,30,1,41.1,1,148
+"149",2020-01-26,"Liga Primera","Atletico Madrid","Leganes","X","Admiral",4,20,1,60,1,149
+"150",2020-01-26,"Liga Primera","Celta Vigo","Eibar","X","Admiral",3.35,20,1,47,1,150
+"151",2020-01-26,"Serie A","Parme","Udinese","Udinese","Admiral",3.2,25,0,-25,1,151
+"152",2020-01-26,"Serie A","Sampodria","Sassuolo","X","Admiral",3.3,25,1,57.5,1,152
+"153",2020-01-26,"Serie A","Hellas Verona","Lecce","Lecce","Admiral",5.75,25,0,-25,1,153
+"154",2020-01-26,"Liga NOS","Belenenses","Portimonense","X","Admiral",2.95,25,0,-25,1,154
+"155",2020-01-26,"Liga NOS","Famalicao","Santa Clara","X","Admiral",3.75,25,0,-25,1,155
+"156",2020-01-26,"Liga NOS","Tondela","Setubal","Setubal","Admiral",4.25,25,1,81.25,1,156
+"157",2020-01-26,"Liga Primera","Getafe","Betis Séville","Betis Séville","Admiral",3.9,25,0,-25,1,157
+"158",2020-01-26,"Eredivisie","Willem II","PEC Zwolle","PEC Zwolle","Admiral",4.25,25,0,-25,1,158
+"159",2020-01-26,"Eredivisie","Groningen ","Ajax","Groningen","Admiral",5.25,25,1,106.25,1,159
+"160",2020-01-26,"Ligue 1","Nantes","Bordeaux","Bordeaux","Admiral",4.5,25,1,87.5,1,160
+"161",2020-01-26,"Serie A","AS Rome ","Lazio Rome","X","Admiral",3.65,32,1,84.8,1,161
+"162",2020-01-26,"Liga Primera","Real Sociedad","Majorque","X","Admiral",4.75,30,0,-30,1,162
+"163",2020-01-26,"Liga NOS","Pacos Ferreira","Benfica","X","Admiral",4.9,23,0,-23,1,163
+"164",2020-01-26,"NBA","SAS","TOR","TOR","Admiral",1.6,40,1,24,1,164
+"165",2020-01-26,"NBA","DEN","HOU","DEN","Admiral",1.63,40,1,25.2,1,165
+"166",2020-01-26,"Liga NOS","CD Aves","Boavista","Boavista","Admiral",3.3,35,1,80.5,1,166
+"167",2020-01-26,"Ligue 1","Lille","PSG","PSG","Admiral",1.5,40,1,20,1,167
+"168",2020-01-26,"Liga Primera","Real Valladolid","Real Madrid","X","Admiral",4.25,35,0,-35,1,168
+"169",2020-01-26,"Serie A","Naples","Juventus","Juventus","Admiral",2.15,40,0,-40,1,169
+"170",2020-01-27,"NBA","NOP","BOS","BOS","Admiral",1.86,40,0,-40,1,170
+"171",2020-01-27,"NBA","POR","IND","IND","Admiral",2.15,40,0,-40,1,171
+"172",2020-01-27,"NBA","MEM","PHO","MEM","Admiral",1.7,40,1,28,1,172
+"173",2020-01-27,"NBA","NYK","BRK","BRK","Admiral",2.1,40,0,-40,1,173
+"174",2020-01-27,"NBA","ORL","LAC","LAC","Admiral",1.64,40,1,25.6,1,174
+"175",2020-01-27,"NBA","ATL","WAS","WAS","Admiral",1.91,40,0,-40,1,175
+"176",2020-01-28,"NBA","MIA","ORL","MIA","Admiral",1.37,30,1,11.1,1,176
+"177",2020-01-28,"NBA","CHI","SAS","SAS ","Admiral",2,30,0,-30,1,177
+"178",2020-01-28,"NBA","MIN","SAC","SAC","Admiral",2.15,30,1,34.5,1,178
+"179",2020-01-28,"NBA","DET","CLE","DET","Admiral",1.31,30,0,-30,1,179
+"180",2020-01-28,"Championship","Reading","Bristol","Bristol","Admiral",3.25,32,1,72,1,180
+"181",2020-01-28,"Championship","Leeds","Millwall","X","Admiral",3.75,32,0,-32,1,181
+"182",2020-01-28,"Championship","Hull City","Huddersfield ","Huddersfield","Admiral",3.35,32,1,75.2,1,182
+"183",2020-01-28,"Championship","Cardiff","West Bromwich","X","Admiral",3.15,32,0,-32,1,183
+"184",2020-01-28,"Championship","Luton","Derby","Luton","Admiral",3,32,1,64,1,184
+"185",2020-01-28,"Championship","Wigan","Sheffield Wednesday","Sheffield Wednesday","Admiral",2.6,32,0,-32,1,185
+"186",2020-01-28,"Championship","Brentford","Nottingham","Brentford","Admiral",1.65,32,0,-32,1,186
+"187",2020-01-28,"Championship","Blackburn","QPR","Blackburn","Admiral",1.97,32,1,31.04,1,187
+"188",2020-01-29,"NBA","MIA","BOS","MIA","Admiral",1.84,37,0,-37,1,188
+"189",2020-01-29,"NBA","MEM","DEN","DEN","Admiral",1.91,37,0,-37,1,189
+"190",2020-01-29,"NBA","CHA","NYK","NYK","Admiral",2.02,36,0,-36,1,190
+"191",2020-01-29,"Premier League","West Ham","Liverpool","X","Admiral",5.5,23,0,-23,1,191
+"192",2020-01-29,"Liga NOS","Moreirense","Sporting Braga","X","Admiral",4.25,24,0,-24,1,192
+"193",2020-01-30,"NBA","NYK","MEM","MEM","Admiral",1.68,19,1,12.92,1,193
+"194",2020-01-30,"NBA","SAC","OKC","OKC","Admiral",1.62,19,1,11.78,1,194
+"195",2020-01-30,"NBA","SAS","UTA","UTA","Admiral",1.46,19,0,-19,1,195
+"196",2020-01-31,"Championship","Cardiff","Reading","Cardiff","Admiral",2.1,19,0,-19,1,196
+"197",2020-01-31,"Championship","Derby","Stoke City","X","Admiral",3.05,18,0,-18,1,197
+"198",2020-02-01,"Championship","Charlton","Barnsley","Charlton","Admiral",2.7,18,1,30.6,1,198
+"199",2020-02-01,"Championship","Fulham","Huddersfield ","Huddersfield","Admiral",4.75,18,0,-18,1,199
+"200",2020-02-01,"Championship","Hull City","Brentford","Brentford","Admiral",2.1,18,1,19.8,1,200
+"201",2020-02-01,"Championship","Leeds","Wigan","X","Admiral",4.4,18,0,-18,1,201
+"202",2020-02-01,"Championship","Middlesbrough","Blackburn","X","Admiral",3.15,18,1,38.7,1,202
+"203",2020-02-01,"Championship","Preston ","Swansea","Swansea","Admiral",3.25,18,0,-18,1,203
+"204",2020-02-01,"Championship","QPR","Bristol","Bristol","Admiral",3.25,18,1,40.5,1,204
+"205",2020-02-01,"Championship","Sheffield Wednesday","Millwall","Millwall","Admiral",3.6,18,0,-18,1,205
+"206",2020-02-01,"Championship","West Bromwich","Luton ","X","Admiral",4.9,18,0,-18,1,206
+"207",2020-02-01,"Serie A","Bologna","Brescia","X","Admiral",4,18,0,-18,1,207
+"208",2020-02-01,"Serie A","Cagliari","Parme","Parme","Admiral",3.85,18,0,-18,1,208
+"209",2020-02-01,"Serie A","Sassuolo","AS Rome","AS Rome","Admiral",1.82,18,0,-18,1,209
+"210",2020-02-02,"Serie A","Atalanta","Genoa","Genoa","Admiral",11,18,0,-18,1,210
+"211",2020-02-02,"Serie A","Lazio","SPAL","SPAL","Admiral",13,18,0,-18,1,211
+"212",2020-02-02,"Serie A","Lecce","Torino","Torino","Admiral",2.2,18,0,-18,1,212
+"213",2020-02-02,"Serie A","Milan AC","Hellas Verone","Hellas Verone","Admiral",5.5,18,0,-18,1,213
+"214",2020-02-02,"Serie A","Udinese","Inter Milan","Inter Milan","Admiral",1.7,18,1,12.6,1,214
+"215",2020-02-03,"Serie A","Sampodria","Naples","Naples","1xBet",1.99,35,1,34.65,1,215
+"216",2020-02-03,"Serie B","Pescara","Cosenza","Pescara","1xBet",2.14,35,1,39.9,1,216
+"217",2020-02-03,"NBA","WAS","GSW","WAS","1xBet",1.38,23,0,-23,1,217
+"218",2020-02-03,"NBA","CLE","NYK","CLE","1xBet",2.19,23,0,-23,1,218
+"219",2020-02-03,"NBA","CHA","ORL","ORL","1xBet",1.48,21,1,10.08,1,219
+"220",2020-02-03,"NBA","ATL","BOS","BOS","1xBet",1.36,23,1,8.28,1,220
+"221",2020-02-03,"NBA","MIA","PHI","PHI","1xBet",2.19,27,0,-27,1,221
+"222",2020-02-03,"NBA","SAC","MIN","MIN","1xBet",1.96,25,0,-25,1,222
+"223",2020-02-04,"Ligue 1","Monaco ","Angers","Monaco","Admiral",1.63,25,1,15.75,1,223
+"224",2020-02-04,"Ligue 1","Lille","Rennes","Lille","Admiral",1.93,25,1,23.25,1,224
+"225",2020-02-04,"Ligue 2","Chateauroux","Chambly","Chambly","Admiral",3.15,40,1,86,1,225
+"226",2020-02-04,"Ligue 2","Nancy","Sochaux","Sochaux","Admiral",4,40,0,-40,1,226
+"227",2020-02-04,"Ligue 2","Orleans","Rodez","Rodez","Admiral",3.6,40,1,104,1,227
+"228",2020-02-04,"Ligue 2","Valenciennes","Guingamp","Guingamp","Admiral",2.6,40,0,-40,1,228
+"229",2020-02-04,"Ligue 2","Paris FC","Ajaccio","Paris FC","Admiral",3.5,40,0,-40,1,229
+"230",2020-02-04,"Ligue 2","Caen","Niort","Caen","Admiral",1.77,40,1,30.8,1,230
+"231",2020-02-04,"NBA","HOU","Chambly","CHA","Admiral",8.6,15,0,-15,1,231
+"232",2020-02-04,"NBA","LAL","SAS","SAS ","Admiral",6.4,15,0,-15,1,232
+"233",2020-02-05,"Ligue 1","Montpellier","Metz","Montpellier","Admiral",1.65,35,0,-35,1,233
+"234",2020-02-05,"Ligue 1","Nimes","Dijon","Nimes","Admiral",2.25,35,1,43.75,1,234
+"235",2020-02-05,"Ligue 1","Lyon","Amiens","Lyon","Admiral",1.43,35,0,-35,1,235
+"236",2020-02-05,"Ligue 1","Reims","Nice","X","Admiral",3.35,35,1,82.25,1,236
+"237",2020-02-05,"SC0","Aberdeen","St Johnstone","St Johnstone","Admiral",5.25,40,1,170,1,237
+"238",2020-02-05,"SC0","Heart of Midlothian","Kilmarnock","X","Admiral",3.3,40,0,-40,1,238
+"239",2020-02-05,"SC0","Motherwell","Celtic","X","Admiral",5.5,40,0,-40,1,239
+"240",2020-02-05,"SC0","Ross County","Livingston","X","Admiral",3.15,40,0,-40,1,240
+"241",2020-02-05,"SC0","St Mirren","Hamilton","St Mirren","Admiral",1.75,40,0,-40,1,241
+"242",2020-02-05,"Serie A","Lazio","Hellas Verone","Hellas Verone","Admiral",7.5,40,0,-40,1,242
+"243",2020-02-05,"NBA","OKC","CLE","CLE","Admiral",8.2,20,0,-20,1,243
+"244",2020-02-05,"NBA","UTA","DEN","DEN","Admiral",4.7,30,1,111,1,244
+"245",2020-02-05,"NBA","MIN","ATL","ATL","Admiral",2.35,40,1,54,1,245
+"246",2020-02-05,"NBA","TOR ","IND","TOR","Admiral",1.41,40,1,16.4,1,246
+"247",2020-02-06,"NBA","LAL","HOU","HOU","Admiral",3.6,30,1,78,1,247
+"248",2020-02-06,"NBA","NYK","ORL","ORL","Admiral",1.57,37,0,-37,1,248
+"249",2020-02-07,"Ligue 2","Ajaccio","Auxerre","Auxerre","Admiral",3.75,36,1,99,1,249
+"250",2020-02-07,"Ligue 2","Chambly","Paris FC","Paris FC","Admiral",2.5,36,1,54,1,250
+"251",2020-02-07,"Ligue 2","Le Havre","Caen","X","Admiral",2.8,36,1,64.8,1,251
+"252",2020-02-07,"Ligue 2","Niort","Orléans","Orléans","Admiral",2.5,36,0,-36,1,252
+"253",2020-02-07,"Eredivisie","Heracles Almelo","Fortuna Sittard","Heracles Almelo","Admiral",1.58,36,1,20.88,1,253
+"254",2020-02-07,"Serie A","AS Rome ","Bologna","Bologna","Admiral",5,36,1,144,1,254
+"255",2020-02-07,"Liga Primera","Alaves","Eibar","Eibar","Admiral",3.55,36,0,-36,1,255
+"256",2020-02-07,"Bundesliga","Eintracht Francfort","Augsburg","Augsburg","Admiral",3.95,36,0,-36,1,256
+"257",2020-02-07,"Championship","Bristol","Birmingham","Birmingham","Admiral",3.15,36,1,77.4,1,257
+"258",2020-02-07,"Jupiler League","Gent","Anderlecht","Anderlecht","Admiral",4.75,36,0,-36,1,258
+"259",2020-02-07,"Liga NOS","Pacos Ferreira","Boavista","X","Admiral",2.65,36,0,-36,1,259
+"260",2020-02-07,"NBA","IND","TOR ","TOR ","Admiral",1.92,49,1,45.08,1,260
+"261",2020-02-07,"NBA","OKC","DET","DET","Admiral",7.4,17,0,-17,1,261
+"262",2020-02-08,"Liga Primera","Levante","Leganes","X","Admiral",3.2,37,0,-37,1,262
+"263",2020-02-08,"Championship","Wigan","Preston","X","Admiral",3,38,0,-38,1,263
+"264",2020-02-08,"Championship","Barnsley","Sheffield Wednesday","Sheffield Wednesday","Admiral",2.5,38,0,-38,1,264
+"265",2020-02-08,"Ligue 1","Marseille","Toulouse","X","Admiral",5,38,0,-38,1,265
+"266",2020-02-08,"Bundesliga","Werder Brême ","Union Berlin","Union Berlin","Admiral",3.5,37,1,92.5,1,266
+"267",2020-02-08,"Bundesliga","Fribourg","Hoffenheim","Hoffenheim","Admiral",2.55,75,0,-75,1,267
+"268",2020-02-08,"Championship","Luton","Cardiff","X","Admiral",3.4,38,0,-38,1,268
+"269",2020-02-08,"Championship","Stoke City","Charlton","Charlton","Admiral",6,38,0,-38,1,269
+"270",2020-02-08,"Championship","Huddersfield","QPR","X","Admiral",3.25,38,0,-38,1,270
+"271",2020-02-08,"Championship","Swansea","Derby","X","Admiral",3.35,38,0,-38,1,271
+"272",2020-02-08,"Liga NOS","Famalicao","Vittoria Guimaraes","X","Admiral",3.5,38,0,-38,1,272
+"273",2020-02-08,"Bundesliga","Hertha Berlin","Mainz","Hertha Berlin","Admiral",2.1,37,0,-37,1,273
+"274",2020-02-08,"Serie B","Crotone","Cremonese","Cremonese","Admiral",4.9,37,0,-37,1,274
+"275",2020-02-08,"Serie B","Cittadella","Empoli","Cittadella","Admiral",2.1,37,0,-37,1,275
+"276",2020-02-08,"Serie A","Fiorentina","Atalanta","Atalanta","Admiral",1.9,37,1,33.3,1,276
+"277",2020-02-08,"Ligue 2","Guingamp","Lorient","X","Admiral",2.95,37,0,-37,1,277
+"278",2020-02-08,"Serie A","Torino","Sampdoria","Torino","Admiral",2.4,33,0,-33,1,278
+"279",2020-02-08,"Serie B","Perugia","Spezia","Perugia","Admiral",2.35,33,0,-33,1,279
+"280",2020-02-08,"Jupiler League","Charleroi","Zulte Waregem","Charleroi","Admiral",1.5,33,1,16.5,1,280
+"281",2020-02-08,"Eredivisie","Groningen ","Vitesse","Groningen","Admiral",2.05,35,1,36.75,1,281
+"282",2020-02-08,"Championship","Nottingham","Leeds","X","Admiral",3.55,33,0,-33,1,282
+"283",2020-02-08,"Bundesliga","Bayer Leverkusen","Dortmund","Bayer Leverkusen","Admiral",3.65,33,1,87.45,1,283
+"284",2020-02-08,"Liga Primera","Real Valladolid","Villareal","X","Admiral",3.25,33,1,74.25,1,284
+"285",2020-02-08,"Eredivisie","Heerenveen","Venlo","Heerenveen","Admiral",1.62,25,0,-25,1,285
+"286",2020-02-08,"Eredivisie","PSV","Willem II","PSV","Admiral",1.62,25,1,15.5,1,286
+"287",2020-02-08,"Jupiler League","Cercle Brugge","Mechelen","Mechelen","Admiral",3.15,25,0,-25,1,287
+"288",2020-02-08,"Ligue 1","Metz","Bordeaux","X","Admiral",2.95,25,0,-25,1,288
+"289",2020-02-08,"Ligue 1","Nice","Nimes","Nice","Admiral",2,25,0,-25,1,289
+"290",2020-02-08,"Ligue 1","Amiens","Monaco","Amiens","Admiral",3.1,25,0,-25,1,290
+"291",2020-02-08,"Ligue 1","Dijon","Nantes","X","Admiral",3.1,25,1,52.5,1,291
+"292",2020-02-08,"Ligue 1","Rennes","Brest","Rennes","Admiral",1.57,25,0,-25,1,292
+"293",2020-02-08,"Eredivisie","Waalwijk","PEC Zwolle","PEC Zwolle","Admiral",2.35,25,0,-25,1,293
+"294",2020-02-08,"Liga NOS","Porto","Benfica","Benfica","Admiral",3.2,25,0,-25,1,294
+"295",2020-02-08,"Liga Primera","Atletico Madrid","Grenade","X","Admiral",4.25,14,0,-14,1,295
+"296",2020-02-08,"Serie A","Hellas Verona","Juventus","Juventus","Admiral",1.65,25,0,-25,1,296
+"297",2020-02-09,"NBA","SAC","SAS","SAS ","Admiral",1.71,30,0,-30,1,297
+"298",2020-02-09,"NBA","MIN","LAC","MIN","Admiral",4.9,29,1,113.1,1,298
+"299",2020-02-09,"Serie A","SPAL","Sassuolo","Sassuolo","Admiral",2.5,29,1,43.5,1,299
+"300",2020-02-09,"Liga Primera","Espanyol Barcelone","Mallorque","Mallorque","Admiral",5.5,29,0,-29,1,300
+"301",2020-02-09,"Liga Primera","Real Sociedad","Athletic Bilbao","X","Admiral",3.3,36,0,-36,1,301
+"302",2020-02-09,"Championship","Millwall","West Bromwich","Millwall","Admiral",2.8,36,0,-36,1,302
+"303",2020-02-09,"Premier League","Sheffield United","Bournemouth","X","Admiral",3.45,40,0,-40,1,303
+"304",2020-02-09,"Ligue 1","Montpellier","Saint-Etienne","Montpellier","Admiral",2,40,1,40,1,304
+"305",2020-02-09,"Serie A","Brescia","Udinese","Udinese","Admiral",2.45,40,0,-40,1,305
+"306",2020-02-09,"Serie A","Genoa","Cagliari","Genoa","Admiral",2.4,40,1,56,1,306
+"307",2020-02-09,"Serie A","Naples","Lecce","Lecce","Admiral",13,40,1,480,1,307
+"308",2020-02-09,"Serie B","Pise","Chievo Vérone","Chievo Vérone","Admiral",2.7,40,0,-40,1,308
+"309",2020-02-09,"Liga NOS","Tondela","Maritimo Madeira","X","Admiral",2.95,40,1,78,1,309
+"310",2020-02-09,"Liga NOS","Moreirense","Setubal","Setubal","Admiral",3.95,40,0,-40,1,310
+"311",2020-02-09,"Liga Primera","Osasuna","Real Madrid","Real Madrid","Admiral",1.58,40,1,23.2,1,311
+"312",2020-02-09,"Ligue 1","Strasbourg","Reims","Strasbourg","Admiral",2.35,40,1,54,1,312
+"313",2020-02-09,"Serie A","Parme","Lazio Rome","Lazio Rome","Admiral",1.8,43,1,34.4,1,313
+"314",2020-02-09,"Liga Primera","Celta Vigo","Séville","X","Admiral",3.25,45,0,-45,1,314
+"315",2020-02-09,"Liga NOS","Sporting CP","Portimonense","Portimonense","Admiral",7,35,0,-35,1,315
+"316",2020-02-09,"Serie A","Inter Milan","Milan AC","Milan AC","Admiral",3.75,50,0,-50,1,316
+"317",2020-02-09,"Serie B","Cosenza","Benevento","Cosenza","Admiral",3.9,50,0,-50,1,317
+"318",2020-02-09,"Liga Primera","Betis Séville","Barcelone","Barcelone","Admiral",1.9,50,1,45,1,318
+"319",2020-02-09,"NBA","OKC","BOS","OKC","Admiral",1.94,62,0,-62,1,319
+"320",2020-02-09,"NBA","ATL ","NYK","ATL","Admiral",1.44,70,1,30.8,1,320
+"321",2020-02-09,"NBA","PHI","CHI ","CHI ","Admiral",5.8,25,0,-25,1,321
+"322",2020-02-11,"Eredivisie","Emmen","Twente","Emmen","Matchpoint",2.15,35,1,40.25,1,322
+"323",2020-02-11,"Jupiler League","Royal Charleroi","Mechelen","Royal Charleroi","Admiral",1.58,45,1,26.1,1,323
+"324",2020-02-11,"Eredivisie","Sparta Rotterdam","Ado Den Haag","Sparta Rotterdam","Admiral",1.78,45,1,35.1,1,324
+"325",2020-02-11,"SC0","Hamilton","Aberdeen","Hamilton","Admiral",4.4,45,0,-45,1,325
+"326",2020-02-11,"Championship","Wigan","Middlesbrough","X","Admiral",3.1,45,1,94.5,1,326
+"327",2020-02-11,"Championship","Swansea","QPR","X","Admiral",3.6,45,1,117,1,327
+"328",2020-02-12,"Jupiler League","Waasland Beveren","Kortrijk","Kortrijk","Admiral",2.2,50,1,60,1,328
+"329",2020-02-12,"Jupiler League","Standard Liège","Club Brugge","Standard Liège","Admiral",3.05,50,0,-50,1,329
+"330",2020-02-12,"SC0","St Johnstone","Motherwell","St Johnstone","Admiral",2.45,50,1,72.5,1,330
+"331",2020-02-12,"SC0","Livingston","St Mirren","St Mirren","Admiral",4.5,50,0,-50,1,331
+"332",2020-02-12,"Championship","Millwall","Fulham","Millwall","Admiral",3.2,50,0,-50,1,332
+"333",2020-02-12,"Championship","Luton","Sheffield Wednesday","Luton","Admiral",3.35,50,1,117.5,1,333
+"334",2020-02-12,"Championship","Huddersfield","Cardiff","Cardiff","Admiral",3.15,50,1,107.5,1,334
+"335",2020-02-12,"Championship","Bristol","Derby","Bristol","Admiral",2.3,50,1,65,1,335
+"336",2020-02-13,"NBA","MIN","CHA","CHA","Admiral",3.9,63,1,182.7,1,336
+"337",2020-02-13,"NBA","IND","MIL","MIL ","Admiral",1.9,63,0,-63,1,337
+"338",2020-02-13,"NBA","BRK","TOR","TOR","Admiral",1.57,63,0,-63,1,338
+"339",2020-02-13,"NBA","UTA","MIA","UTA","Admiral",1.51,63,1,32.13,1,339
+"340",2020-02-14,"Bundesliga 2","St Pauli","Dynamo Dresden","X","1xBet",3.4,12,1,28.8,1,340
+"341",2020-02-14,"Bundesliga 2","Heidenheim","Nurnberg","Heidenheim","1xBet",2.27,12,0,-12,1,341
+"342",2020-02-14,"Liga Primera","Valence","Atletico Madrid","Atletico Madrid","1xBet",2.5,25,0,-25,1,342
+"343",2020-02-14,"Ligue 1","Monaco","Montpellier","Monaco","1xBet",1.83,25,1,20.75,1,343
+"344",2020-02-15,"Bundesliga 2","Regensburg","Wiesbaden","X","1xBet",3.46,50,0,-50,1,344
+"345",2020-02-15,"Bundesliga 2","Hanovre 96","Hambourg","X","1xBet",3.65,50,1,132.5,1,345
+"346",2020-02-15,"Bundesliga 2","Greuther Furth","Arminia Bielefeld","X","1xBet",3.47,50,0,-50,1,346
+"347",2020-02-15,"Serie A","Lecce","SPAL","SPAL","1xBet",3.07,51.3,0,-51.3,1,347
+"348",2020-02-15,"Serie B","Benevento","Pordenone","Pordenone","1xBet",7.93,51.3,0,-51.3,1,348
+"349",2020-02-15,"Ligue 2","Nancy","Guingamp","Guingamp","1xBet",2.87,51.3,1,95.931,1,349
+"350",2020-02-15,"Bundesliga","Augsbourg","Fribourg","Augsburg","1xBet",2.11,51.3,0,-51.3,1,350
+"351",2020-02-15,"Bundesliga","Paderborn","Hertha Berlin","Paderborn","1xBet",2.8,51.3,0,-51.3,1,351
+"352",2020-02-15,"Bundesliga","Union Berlin","Bayer Leverkusen","Union Berlin","1xBet",3.74,51.3,0,-51.3,1,352
+"353",2020-02-15,"Bundesliga","Hoffenheim","Wolfsburg","Wolfsburg","1xBet",3.1,51.3,1,107.73,1,353
+"354",2020-02-15,"Championship","Leeds","Bristol","X","1xBet",5.85,51.3,0,-51.3,1,354
+"355",2020-02-15,"Championship","Middlesbrough","Luton ","Luton","1xBet",5.75,51.3,1,243.675,1,355
+"356",2020-02-15,"Championship","Preston ","Millwall","Preston","1xBet",2.21,51.3,0,-51.3,1,356
+"357",2020-02-15,"Championship","Charlton","Blackburn","Charlton","1xBet",3.015,51.3,0,-51.3,1,357
+"358",2020-02-15,"Championship","Sheffield Wednesday","Reading","X","1xBet",3.26,51.3,0,-51.3,1,358
+"359",2020-02-15,"Championship","QPR","Stoke City","QPR","1xBet",2.68,51.3,1,86.184,1,359
+"360",2020-02-15,"SC0","Ross County","St Johnstone","Ross County","1xBet",3.36,51.3,0,-51.3,1,360
+"361",2020-02-15,"Liga NOS","Santa Clara","Tondela","X","1xBet",3.05,51.3,0,-51.3,1,361
+"362",2020-02-15,"Ligue 1","Amiens","PSG","Amiens","1xBet",7.3,49.18,0,-49.18,1,362
+"363",2020-02-15,"Serie A","Bologna","Genoa","X","1xBet",3.92,52.12,0,-52.12,1,363
+"364",2020-02-15,"Premier League","Norwich","Liverpool","X","1xBet",5.85,52.12,0,-52.12,1,364
+"365",2020-02-15,"Liga Primera","Villareal","Levante","X","1xBet",4.6,52.12,0,-52.12,1,365
+"366",2020-02-15,"Eredivisie","Twente","AZ Alkmaar","Twente","1xBet",4.82,52.12,1,199.0984,1,366
+"367",2020-02-15,"Liga NOS","Benfica","Braga","Benfica","1xBet",1.77,52,0,-52,1,367
+"368",2020-02-15,"Eredivisie","ADO La Haye","PSV","ADO La Haye","1xBet",5.61,55,0,-55,1,368
+"369",2020-02-15,"Jupiler League","Oostende","Kortrijk","Oostende","1xBet",2.6,50,0,-50,1,369
+"370",2020-02-15,"Jupiler League","St Truidense","Cercle Brugge","X","1xBet",3.66,50,0,-50,1,370
+"371",2020-02-15,"Ligue 1","Bordeaux","Dijon","Bordeaux","1xBet",1.8,50,0,-50,1,371
+"372",2020-02-15,"Ligue 1","Nantes","Metz","Nantes","1xBet",1.81,50,0,-50,1,372
+"373",2020-02-15,"Ligue 1","Toulouse","Nice","Toulouse","1xBet",2.31,50,0,-50,1,373
+"374",2020-02-15,"Jupiler League","Mechelen","Anderlecht","Mechelen","1xBet",3.26,50,1,113,1,374
+"375",2020-02-15,"Serie A","Atalanta","AS Rome","AS Rome","1xBet",4.27,50,0,-50,1,375
+"376",2020-02-15,"Eredivisie","Fortuna Sittard","Emmen","Fortuna Sittard","1xBet",2.32,50,0,-50,1,376
+"377",2020-02-16,"Liga Primera","Séville","Espanyol Barcelone","X","1xBet",4.11,38,1,118.18,1,377
+"378",2020-02-16,"Eredivisie","Vitesse","Heerenveen","Vitesse","1xBet",1.97,38,1,36.86,1,378
+"379",2020-02-16,"Serie A","Udinese","Hellas Verone","X","1xBet",3.289,38,1,86.982,1,379
+"380",2020-02-16,"Bundesliga 2","Darmstadt","Sandhausen","Sandhausen","1xBet",3.09,38,0,-38,1,380
+"381",2020-02-16,"Bundesliga 2","Karlsruher","Osnabruck","X","1xBet",3.41,38,1,91.58,1,381
+"382",2020-02-16,"Bundesliga 2","Erzgebirge","Holstein Kiel","X","1xBet",3.39,38,0,-38,1,382
+"383",2020-02-16,"Eredivisie","Sparta Rotterdam","Groningen","Groningen","1xBet",2.97,48,1,94.56,1,383
+"384",2020-02-16,"Jupiler League","Royal Antwerp","Royal Charleroi","Royal Charleroi","1xBet",3.71,48,0,-48,1,384
+"385",2020-02-16,"Premier League","Aston Villa","Tottenham","Aston Villa","1xBet",4.18,40,0,-40,1,385
+"386",2020-02-16,"Serie A","Sampodria","Fiorentina","Fiorentina","1xBet",2.75,40,1,70,1,386
+"387",2020-02-16,"Serie A","Juventus","Brescia","Brescia","1xBet",16.1,40,0,-40,1,387
+"388",2020-02-16,"Serie A","Sassuolo","Parme","Parme","1xBet",4.28,40,1,131.2,1,388
+"389",2020-02-16,"Serie B","Frosinone","Pérouse","Frosinone","1xBet",2.07,40,1,42.8,1,389
+"390",2020-02-16,"Ligue 1","Lyon","Strasbourg","Lyon","1xBet",1.66,40,0,-40,1,390
+"391",2020-02-16,"Liga NOS","Boavista","Belenenses","Boavista","1xBet",1.85,42,0,-42,1,391
+"392",2020-02-16,"Eredivisie","Willem II","Utrecht","Utrecht","1xBet",2.392,48,0,-48,1,392
+"393",2020-02-16,"SC0","Kilmarock","Hibernian","Kilmarock","1xBet",2.38,50,0,-50,1,393
+"394",2020-02-16,"Serie A","Cagliari","Naples","Naples","1xBet",1.85,50,1,42.5,1,394
+"395",2020-02-16,"Bundesliga","Mainz","Schalke 04","Mainz","1xBet",2.72,50,0,-50,1,395
+"396",2020-02-16,"Jupiler League","Genk","Standard Liège","Genk","1xBet",2.58,50,0,-50,1,396
+"397",2020-02-16,"Liga Primera","Athletic Bilbao","Osasuna","X","1xBet",3.34,50,0,-50,1,397
+"398",2020-02-16,"Liga NOS","Vitoria Guimaraes","Porto","X","1xBet",3.22,50,0,-50,1,398
+"399",2020-02-16,"Serie A","Lazio Rome","Inter Milan","Inter Milan","1xBet",2.97,40,0,-40,1,399
+"400",2020-02-16,"Ligue 1","Lille","Marseille","X","1xBet",3.18,40,0,-40,1,400
+"401",2020-02-16,"Serie B","Empoli","Pise","Empoli","1xBet",1.72,40,1,28.8,1,401
+"402",2020-02-16,"Liga NOS","Famalicao","Aves","Aves","1xBet",6,40,0,-40,1,402
+"403",2020-02-16,"Bundesliga 2","Bochum","Stuttgart","X","1xBet",3.7,40,0,-40,1,403
+"404",2020-02-16,"Serie A","Milan AC","Torino","X","1xBet",4.59,40,0,-40,1,404
+"405",2020-02-16,"Premier League","Chelsea","Manchester United","X","1xBet",3.34,40,0,-40,1,405
+"406",2020-02-19,"Premier League","Manchester City","West Ham","X","1xBet",10.3,34,0,-34,1,406
+"407",2020-02-21,"NBA","CHI","CHA","CHI ","1xBet",1.57,35,0,-35,1,407
+"408",2020-02-21,"NBA","PHI","BKN","PHI","1xBet",1.39,35,1,13.65,1,408
+"409",2020-02-21,"Bundesliga 2","Osnabruck","Erzgebirge","Osnabruck","1xBet",2.27,35,0,-35,1,409
+"410",2020-02-21,"Bundesliga 2","Wiesbaden","Greuther Furth","Wiesbaden","1xBet",2.55,35,0,-35,1,410
+"411",2020-02-21,"Ligue 1","Nice","Brest","Nice","1xBet",1.9,35,0,-35,1,411
+"412",2020-02-21,"Eredivisie","Waalwijk","Sparta Rotterdam","Waalwijk","1xBet",2.68,35,0,-35,1,412
+"413",2020-02-21,"Ligue 2","AC Ajaccio","Le Mans","Le Mans","1xBet",6.63,35,0,-35,1,413
+"414",2020-02-21,"Ligue 2","Chambly","Nancy","Nancy","1xBet",2.71,35,0,-35,1,414
+"415",2020-02-21,"Ligue 2","Clermont","Paris FC","Paris FC","1xBet",5.6,35,1,161,1,415
+"416",2020-02-21,"Ligue 2","Grenoble","Chateauroux","Grenoble","1xBet",1.97,35,0,-35,1,416
+"417",2020-02-21,"Ligue 2","Niort","Valenciennes","Valenciennes","1xBet",2.81,35,0,-35,1,417
+"418",2020-02-21,"Ligue 2","Rodez","Lorient","Rodez","1xBet",4.19,35,0,-35,1,418
+"419",2020-02-21,"Jupiler League","Kortrijk","Genk","Genk","1xBet",2.82,35,1,63.7,1,419
+"420",2020-02-21,"Ligue 1","Metz","Lyon","Lyon","1xBet",1.81,35,1,28.35,1,420
+"421",2020-02-21,"Championship","Derby","Fulham","X","1xBet",3.36,35,1,82.6,1,421
+"422",2020-02-21,"Liga Primera","Betis Séville","Majorque","X","1xBet",4.6,35,1,126,1,422
+"423",2020-02-22,"NBA","ORL","DAL","DAL","1xBet",1.48,35,1,16.8,1,423
+"424",2020-02-22,"NBA","NYK","IND","IND","1xBet",1.38,35,1,13.3,1,424
+"425",2020-02-22,"NBA","UTA","SAS","UTA","1xBet",1.36,35,0,-35,1,425
+"426",2020-02-22,"Premier League","Chelsea","Tottenham","Tottenham","1xBet",4.86,35,0,-35,1,426
+"427",2020-02-22,"Liga Primera","Celta Vigo","Leganes","X","1xBet",3.34,35,0,-35,1,427
+"428",2020-02-22,"Championship","Brentford","Blackburn","Blackburn","1xBet",5.25,35,0,-35,1,428
+"429",2020-02-22,"Bundesliga 2","Dynamo Dresden","Bochum","X","1xBet",3.17,35,0,-35,1,429
+"430",2020-02-22,"Bundesliga 2","Hambourg","St Pauli","X","1xBet",4.18,35,0,-35,1,430
+"431",2020-02-22,"Bundesliga 2","Holstein Kiel","Heidenheim","X","1xBet",3.54,35,0,-35,1,431
+"432",2020-02-22,"Bundesliga 2","Vfb Stuttgart","Regensburg","X","1xBet",5,35,0,-35,1,432
+"433",2020-02-22,"Serie A","Bologna","Udinese","Udinese","1xBet",3.7,35,0,-35,1,433
+"434",2020-02-22,"Bundesliga","Fribourg","Dusseldorf","Dusseldorf","1xBet",4.14,35,1,109.9,1,434
+"435",2020-02-22,"Bundesliga","Munchengladbach","Hoffenheim","Hoffenheim","1xBet",5.28,35,0,-35,1,435
+"436",2020-02-22,"Premier League","Burnley","Bournemouth","X","1xBet",3.46,35,0,-35,1,436
+"437",2020-02-22,"Premier League","Crystal Palace","Newcastle","Newcastle","1xBet",3.88,35,0,-35,1,437
+"438",2020-02-22,"Championship","Barnsley","Middlesbrough","Middlesbrough","1xBet",2.875,35,0,-35,1,438
+"439",2020-02-22,"Championship","Birmingham","Sheffield Wednesday","Birmingham","1xBet",2.26,35,0,-35,1,439
+"440",2020-02-22,"Championship","Luton","Brentford","Luton","1xBet",5.05,35,1,141.75,1,440
+"441",2020-02-22,"Championship","Notthingham","QPR","X","1xBet",3.44,35,1,85.4,1,441
+"442",2020-02-22,"Championship","Preston ","Hull City","X","1xBet",4.14,35,0,-35,1,442
+"443",2020-02-22,"Championship","Cardiff","Nottingham","Cardiff","1xBet",2.392,35,0,-35,1,443
+"444",2020-02-22,"Championship","Swansea","Huddersfield ","X","1xBet",3.34,35,0,-35,1,444
+"445",2020-02-22,"Championship","Wigan","Millwall","Millwall","1xBet",2.82,35,0,-35,1,445
+"446",2020-02-22,"SC0","Aberdeen","Ross County","X","1xBet",4.14,35,0,-35,1,446
+"447",2020-02-22,"SC0","Hibernian","Livingston","X","1xBet",3.44,35,1,85.4,1,447
+"448",2020-02-22,"SC0","Hamilton","Motherwell","X","1xBet",3.4,35,1,84,1,448
+"449",2020-02-22,"Serie A","SPAL","Juventus","SPAL","1xBet",7.6,30,0,-30,1,449
+"450",2020-02-22,"Jupiler League","Standard Liege","Royal Antwerp","Standard Liège","1xBet",2.11,35,1,38.85,1,450
+"451",2020-02-22,"Bundesliga","Schalke 04","Leipzig","Leipzig","1xBet",1.76,35,1,26.6,1,451
+"452",2020-02-22,"Liga Primera","Real Sociedad","Valence","X","1xBet",4.58,35,0,-35,1,452
+"453",2020-02-22,"Eredivisie","Emmen","Willem II","Emmen","1xBet",2.44,35,1,50.4,1,453
+"454",2020-02-22,"Ligue 1","Dijon","Monaco","Monaco","1xBet",2.05,35,0,-35,1,454
+"455",2020-02-22,"Ligue 1","Angers","Montpellier","Montpellier","1xBet",3.195,35,0,-35,1,455
+"456",2020-02-22,"Ligue 1","Lille","Toulouse","X","1xBet",5.15,35,0,-35,1,456
+"457",2020-02-22,"Jupiler League","Oostende","Zulte Waregem","Zulte Waregem","1xBet",2.81,35,0,-35,1,457
+"458",2020-02-22,"Jupiler League","Mouscron","Cercle Brugge","Cercle Brugge","1xBet",2.48,35,1,51.8,1,458
+"459",2020-02-22,"Eredivisie","Groningen","Venlo","Groningen","1xBet",1.65,35,0,-35,1,459
+"460",2020-02-22,"Jupiler League","Mechelen","Waasland","Waasland","1xBet",5.4,35,0,-35,1,460
+"461",2020-02-22,"Serie A","Fiorentina ","Milan AC","Milan AC","1xBet",2.8,35,0,-35,1,461
+"462",2020-02-22,"Liga Primera","Levante","Real Madrid","X","1xBet",5,35,0,-35,1,462
+"463",2020-02-22,"NBA","ATL","DAL","ATL","1xBet",2.056,20,1,21.12,1,463
+"464",2020-02-22,"NBA","CHI","PHO","CHI ","1xBet",2.256,20,0,-20,1,464
+"465",2020-02-22,"NBA","MIA","CLE","CLE","1xBet",7.3,20,0,-20,1,465
+"466",2020-02-22,"NBA","UTA","HOU","UTA","1xBet",1.81,20,0,-20,1,466
+"467",2020-02-23,"Liga Primera","Osasuna","Grenade","X","1xBet",3.48,20,0,-20,1,467
+"468",2020-02-23,"Serie A","Genoa","Lazio Rome","Lazio Rome","1xBet",1.85,20,1,17,1,468
+"469",2020-02-23,"Bundesliga 2","Arminia Bielefeld","Hanovre","X","1xBet",3.72,20,0,-20,1,469
+"470",2020-02-23,"Bundesliga 2","Nurnberg","Darmstadt","X","1xBet",3.34,20,0,-20,1,470
+"471",2020-02-23,"Bundesliga 2","Sandhausen","Karlsruher","X","1xBet",3.64,20,0,-20,1,471
+"472",2020-02-23,"Ligue 1","St Etienne","Reims","St Etienne","1xBet",2.5,20,0,-20,1,472
+"473",2020-02-23,"Jupiler League","Club Bruges","Royal Charleroi","Royal Charleroi","1xBet",6,20,0,-20,1,473
+"474",2020-02-23,"Bundesliga","Leverkusen","Augsbourg","Augsburg","1xBet",6.2,20,0,-20,1,474
+"475",2020-02-23,"Liga Primera","Real Valladolid","Espanyol Barcelone","X","1xBet",2.98,20,0,-20,1,475
+"476",2020-02-23,"SC0","Celtic","Kilmarnock","X","1xBet",7.7,20,0,-20,1,476
+"477",2020-02-23,"Liga NOS","Moreirense","Santa Clara","Santa Clara","1xBet",3.28,20,0,-20,1,477
+"478",2020-02-23,"Liga NOS","Pacos Ferreira","Famaliçao","X","1xBet",3.1,20,0,-20,1,478
+"479",2020-02-26,"Championship","Fulham","Swansea","Swansea","1xBet",4.5,30,0,-30,1,479
+"480",2020-02-26,"Championship","Hull City","Barnsley","Barnsley","1xBet",2.68,30,1,50.4,1,480
+"481",2020-02-26,"Championship","Middlesbrough","Leeds","X","1xBet",3.92,30,0,-30,1,481
+"482",2020-02-26,"Championship","Millwall","Birmingham","Millwall","1xBet",2.23,30,0,-30,1,482
+"483",2020-02-26,"Championship","Reading","Wigan","Reading","1xBet",2.24,30,0,-30,1,483
+"484",2020-02-26,"Championship","Sheffield Wednesday","Charlton","Charlton","1xBet",5.15,30,0,-30,1,484
+"485",2020-02-26,"NBA","CHA","NYK","CHA ","1xBet",2.035,100,1,103.5,1,485
+"486",2020-02-26,"NBA","HOU","MEM","MEM","1xBet",6.5,100,0,-100,1,486
+"487",2020-02-28,"Bundesliga 2","Regensburg","Dresden","X","Winamax",3.2,6,0,-6,1,487
+"488",2020-02-28,"Bundesliga 2","Karlsruhe","Nuremberg","X","Winamax",2.95,6,0,-6,1,488
+"489",2020-02-28,"Eredivisie","Willem II","Groningen","Willem II","Betclic",2.28,12,1,15.36,1,489
+"490",2020-02-28,"Ligue 2","Caen","Grenoble","Caen","Winamax",2.6,12,1,19.2,1,490
+"491",2020-02-28,"Ligue 2","Chateauroux","Le Havre","Le Havre","Winamax",2.05,12,1,12.6,1,491
+"492",2020-02-28,"Ligue 2","Nancy","Clermont","Clermont","Winamax",2.75,12,1,21,1,492
+"493",2020-02-28,"Ligue 2","Sochaux","Rodez","Sochaux","Winamax",2.27,12,0,-12,1,493
+"494",2020-02-28,"Jupiler League","Saint-Trond","Malines","Saint-trond","Winamax",2.7,6,0,-6,1,494
+"495",2020-02-28,"Ligue 1","Nimes","Marseille","Marseille","Winamax",2.2,6,1,7.2,1,495
+"496",2020-02-28,"Premier League","Norwich","Leicester","Leicester","Winamax",1.76,6,0,-6,1,496
+"497",2020-02-28,"Liga Primera","Real Sociedad","Valladolid","X","Winamax",4.3,6,0,-6,1,497
+"498",2020-02-28,"Liga NOS","Portimonense","Vitoria setubal","Vitoria setubal","Winamax",4.5,6,0,-6,1,498
+"499",2020-02-29,"NBA","MIA","DAL","DAL","Betclic",2.23,25,0,-25,1,499
+"500",2020-02-29,"NBA","NOP","CLE ","CLE ","Betclic",7.6,25,0,-25,1,500
+"501",2020-02-29,"NBA","TOR","CHA","CHA","Winamax",9,25,1,200,1,501
+"502",2020-02-29,"NBA","ATL","BRK","ATL","Winamax",2.25,25,1,31.25,1,502
+"503",2020-02-29,"NBA","LAC","DEN","DEN","Betclic",3.04,25,0,-25,1,503
+"504",2020-02-29,"Bundesliga 2","Darmstadt","Heidenheim","X","Betclic",2.86,7.84,0,-7.84,1,504
+"505",2020-02-29,"Premier League","Brighton","Crystal palace","X","Winamax",3.25,3.9,0,-3.9,1,505
+"506",2020-02-29,"Ligue 2","Lorient ","chambly","chambly","Winamax",8.3,7.8,1,56.94,1,506
+"507",2020-02-29,"Serie A","Lazio rome","bologne","bologne","Winamax",6.25,10.7,0,-10.7,1,507
+"508",2020-02-29,"Bundesliga","ausbourg","borussia gladbach","M'gladbach","Winamax",1.82,7.8,1,6.396,1,508
+"509",2020-02-29,"Bundesliga","Mayence ","Paderborn","Paderborn","Winamax",4.1,7.8,0,-7.8,1,509
+"510",2020-02-29,"Premier League","Bournemouth","chelsea","X","Winamax",3.8,3.9,1,10.92,1,510
+"511",2020-02-29,"Premier League","newcastle united","Burnley","Newcastle","Winamax",2.75,3.9,0,-3.9,1,511
+"512",2020-02-29,"Premier League","West Ham united","Southampton","West Ham","Winamax",2.6,3.9,1,6.24,1,512
+"513",2020-02-29,"Championship","Huddersfield","charlton","charlton","Winamax",5.1,7.8,0,-7.8,1,513
+"514",2020-02-29,"Championship","QPR","birmingham","birmingham","Winamax",3.05,7.8,0,-7.8,1,514
+"515",2020-02-29,"Championship","shefield ","derby","Shefield","Winamax",2,7.8,0,-7.8,1,515
+"516",2020-02-29,"Championship","blackburn","swansea","Blackburn","Winamax",2.05,7.8,0,-7.8,1,516
+"517",2020-02-29,"Championship","luton","stoke city","luton","Winamax",3.2,7.8,0,-7.8,1,517
+"518",2020-02-29,"Championship","Milwall","bristol city","Bristol","Winamax",4.1,7.8,0,-7.8,1,518
+"519",2020-02-29,"Championship","Fulham","Preston","Preston","Winamax",4,7.8,0,-7.8,1,519
+"520",2020-02-29,"Championship","Cardiff","Brentford","Brentford","Winamax",2,7.8,0,-7.8,1,520
+"521",2020-02-29,"Championship","Reading","Barnsley","Barnsley","Winamax",2.7,7.8,0,-7.8,1,521
+"522",2020-02-29,"Liga Primera","Valence","Betis seville","X","Winamax",3.7,3.9,0,-3.9,1,522
+"523",2020-02-29,"Liga Secunda","Huesca ","extremadura UD","X","Winamax",3.3,3.9,1,8.97,1,523
+"524",2020-02-29,"Liga Secunda","Ponferradina","Gijon","X","Winamax",2.65,3.9,0,-3.9,1,524
+"525",2020-02-29,"Ligue 1","PSG","Dijon","Dijon","Winamax",23,3.9,0,-3.9,1,525
+"526",2020-02-29,"Jupiler League","Waasland","Anderlecht","Anderlecht","Winamax",1.47,3.9,1,1.833,1,526
+"527",2020-02-29,"Bundesliga","Cologne","Schalke 04","Schalke 04","Winamax",3.2,7.8,0,-7.8,1,527
+"528",2020-02-29,"Liga Primera","Leganes","Alaves","Alaves","Winamax",4,3.9,0,-3.9,1,528
+"529",2020-02-29,"Liga NOS","Rio Ave","Belenenses","Belenenses","Betclic",6.6,3.9,0,-3.9,1,529
+"530",2020-02-29,"Eredivisie","Venlo","Fortuna Sittard","Venlo","Betclic",2.03,7.6,0,-7.6,1,530
+"531",2020-02-29,"Ligue 1","Amiens","Metz","X","Betclic",3.1,3.8,0,-3.8,1,531
+"532",2020-02-29,"Jupiler League","Waregem","Courtrai","Courtrai","Betclic",2.65,3.8,0,-3.8,1,532
+"533",2020-02-29,"Ligue 1","Monaco","Reims","Monaco","Winamax",1.85,3.8,0,-3.8,1,533
+"534",2020-02-29,"Ligue 1","Toulouse","Rennes","Toulouse","Winamax",4,3.8,0,-3.8,1,534
+"535",2020-02-29,"Ligue 1","Montpellier","Strasbourg","Montpellier","Winamax",2.45,3.8,1,5.51,1,535
+"536",2020-02-29,"Jupiler League","Anvers","Ostende","Ostende","Betclic",7.1,3.8,0,-3.8,1,536
+"537",2020-02-29,"Liga Secunda","Albacete","Rayo Vallecano","X","Betclic",2.65,3.8,1,6.27,1,537
+"538",2020-02-29,"Liga NOS","Boavista","Gil Vicente","Gil Vicente","Betclic",2.8,3.8,1,6.84,1,538
+"539",2020-02-29,"NBA","NYK","CHI","CHI","Betclic",2.19,30,0,-30,1,539
+"540",2020-02-29,"Eredivisie","Twente","Heerenveen","Twente","Winamax",2.3,7.6,0,-7.6,1,540
+"541",2020-02-29,"Serie A","Naples","Torino","Torino","Winamax",6.25,11.5,0,-11.5,1,541
+"542",2020-02-29,"Liga Primera","Grenade","Celta Vigo","Celta Vigo","Winamax",2.2,3.8,0,-3.8,1,542
+"543",2020-02-29,"Liga Secunda","Santander","Saragosse","X","Winamax",3,3.8,1,7.6,1,543
+"544",2020-02-29,"NBA","MIA","BRK","MIA","Winamax",1.36,30,1,10.8,1,544
+"545",2020-02-29,"NBA","CLE","IND","CLE","Winamax",4.25,30,0,-30,1,545
+"546",2020-03-01,"Eredivisie","Waalwijk","Utrecht","Waalwijk","Betclic",4.75,13.41,1,50.2875,1,546
+"547",2020-03-01,"Liga Primera","Séville","Osasuna","X","Winamax",4.65,6.7,0,-6.7,1,547
+"548",2020-03-01,"Bundesliga","union berlin","wolfsbourg","wolfsbourg","Winamax",2.5,13.41,0,-13.41,1,548
+"549",2020-03-01,"Bundesliga 2","aminia bielfeld","SV wehen","X","Winamax",3.5,6.7,0,-6.7,1,549
+"550",2020-03-01,"Bundesliga 2","bochum","sandhausen","bochum","Winamax",2.15,6.7,0,-6.7,1,550
+"551",2020-03-01,"Bundesliga 2","st pauli","osnabruck","X","Winamax",3,6.7,0,-6.7,1,551
+"552",2020-03-01,"Liga Primera","Athletic bilbao","villareal","X","Winamax",3.35,6.7,0,-6.7,1,552
+"553",2020-03-01,"Jupiler League","Genk","club bruges","club bruges","Betclic",1.85,6.7,1,5.695,1,553
+"554",2020-03-01,"Premier League","Everton","Manchester united","MU","Winamax",2.6,6.7,0,-6.7,1,554
+"555",2020-03-01,"Liga Primera","Espanyol","Athletico Madrid","Athletico","Winamax",2,6.7,0,-6.7,1,555
+"556",2020-03-01,"Eredivisie","Sparta roterdam","FC emen","Sparta rotterdam","Winamax",1.9,13.7,1,12.33,1,556
+"557",2020-03-01,"Ligue 1","Bordeaux","Nice","Bordeaux","Winamax",2,6.7,0,-6.7,1,557
+"558",2020-03-01,"Serie A","Cagliari","AS rome","AS rome","Winamax",2.22,20.1,1,24.522,1,558
+"559",2020-03-01,"Jupiler League","Charleroi","standard","standard","Winamax",2.9,6.7,0,-6.7,1,559
+"560",2020-03-01,"Liga Primera","Real Madrid","Barcelone","Barcelone","Winamax",3.1,6.7,0,-6.7,1,560
+"561",2020-03-01,"NBA","MIN","DAL","MIN","Winamax",2.8,27,0,-27,1,561
+"562",2020-03-01,"NBA","GSW","WAS","WAS","Winamax",1.35,26,1,9.1,1,562
+"563",2020-03-01,"Bundesliga 2","Hanovre","Holstein","X","1xBet",3.4,6.7,0,-6.7,1,563
+"564",2020-03-01,"Ligue 2","Paris FC","Lens","Paris FC","Winamax",4,13.41,0,-13.41,1,564
+"565",2020-03-01,"Championship","Middlesbrough","Notthingham","Middelsbrough","Winamax",2.65,13.41,0,-13.41,1,565
+"566",2020-03-03,"Serie B","salernitana","venezia","X","Winamax",2.85,12.73,0,-12.73,1,566
+"567",2020-03-03,"Serie B","pordenone","Juve stabia","Juve stabia","Winamax",4.5,12.73,0,-12.73,1,567
+"568",2020-03-03,"Serie B","Cremonese","Empoli","X","Winamax",2.9,12.73,0,-12.73,1,568
+"569",2020-03-03,"Serie B","Cosenza ","citadella","X","Winamax",2.8,12.73,0,-12.73,1,569
+"570",2020-03-03,"SC0","Hibernian FC","Heart of midlothian","Hibernian FC","Winamax",2,12.73,0,-12.73,1,570
+"571",2020-03-03,"NBA","Boston celtics","Brooklyn nets","Boston celtics","Winamax",1.39,26,0,-26,1,571
+"572",2020-03-03,"NBA","Denver nuggets","GSW","GSW","Winamax",11,25,1,250,1,572
+"573",2020-03-03,"NBA","LAL","Philadelphia","Philadelphia","Betclic",7.9,25,0,-25,1,573
+"574",2020-03-03,"NBA","Phoenix suns","Toronto Raptors","Raptors","Betclic",1.61,25,1,15.25,1,574
+"575",2020-03-04,"Serie B","Ascoli","Chievo Vérone","Ascoli","1xBet",3.09,15,0,-15,1,575
+"576",2020-03-04,"Serie B","Spezia","Pescara","X","1xBet",3.48,15,0,-15,1,576
+"577",2020-03-04,"SC0","Kilmarnock","Aberdeen","X","1xBet",3.17,15,1,32.55,1,577
+"578",2020-03-04,"SC0","Livingston","Celtic","X","1xBet",4.64,15,1,54.6,1,578
+"579",2020-03-04,"SC0","St Mirren","St Johnstone","X","1xBet",3.17,15,1,32.55,1,579
+"580",2020-03-05,"NBA","Brooklyn","Memphis","Brooklyn","1xBet",1.78,35,0,-35,1,580
+"581",2020-03-05,"NBA","Minnesota","Chicago","Chicago","1xBet",2.075,35,0,-35,1,581
+"582",2020-03-05,"NBA","Portland","Washington","Portland","1xBet",1.33,35,1,11.55,1,582
+"583",2020-03-06,"NBA","Sacramento","Philidelphie","Philadelphie","1xBet",2.768,32,1,56.576,1,585
+"584",2020-03-06,"NBA","Houston","Clippers","Houston","Winamax",1.95,32,0,-32,1,586
+"585",2020-03-06,"Bundesliga 2","Nurnberg","Hannover","X","1xBet",3.4,50,0,-50,1,587
+"586",2020-03-06,"Bundesliga 2","Osnabruck","Wehen","Wehen","1xBet",3.48,8.37,1,20.7576,1,588
+"587",2020-03-06,"Ligue 2","Chateauroux","Caen","Caen","Winamax",2.35,16.74,0,-16.74,1,589
+"588",2020-03-06,"Ligue 2","Clermont","Sochaux","Sochaux","Winamax",4.5,16.74,0,-16.74,1,590
+"589",2020-03-06,"Ligue 2","Niort","Nancy","X","Winamax",2.95,16.74,1,32.643,1,591
+"590",2020-03-06,"Ligue 2","Grenoble","Valenciennes","Grenoble","Winamax",2.07,16.74,0,-16.74,1,592
+"591",2020-03-06,"Ligue 2","Le Havre","Auxerre","Auxerre","Winamax",3.75,16.74,0,-16.74,1,593
+"592",2020-03-06,"Ligue 2","Rodez","Guingamp","Guingamp","Winamax",2.57,16.74,0,-16.74,1,594
+"593",2020-03-06,"Ligue 2","Troyes","Paris FC","Paris FC","Winamax",6.1,16.74,0,-16.74,1,595
+"594",2020-03-06,"Ligue 2","Chambly","Le Mans","X","Winamax",3.2,16.74,1,36.828,1,596
+"595",2020-03-06,"Bundesliga","Paderborn","Cologne","Paderborn","Winamax",3.2,8.4,0,-8.4,1,597
+"596",2020-03-06,"Eredivisie","Fortuna Sittard","PEC Zwolle","Fortuna Sittard","1xBet",2.15,25.11,0,-25.11,1,598
+"597",2020-03-06,"Championship","Notthingham","Millwall","X","1xBet",3.12,8.4,0,-8.4,1,599
+"598",2020-03-06,"Liga Secunda","Lugo","Cadiz","Lugo","1xBet",3.62,16.74,0,-16.74,1,600
+"599",2020-03-07,"NBA","NY Knicks","OKC","OKC","1xBet",1.44,29,1,12.76,1,603
+"600",2020-03-07,"NBA","New Orleans Pelicans","Miami","Miami","1xBet",2.045,29,0,-29,1,604
+"601",2020-03-07,"NBA","Minnesota","Orlando","Orlando","Winamax",1.72,29,1,20.88,1,605
+"602",2020-03-07,"NBA","Phoenix suns","Portland","Phoenix","Winamax",2.41,29,1,40.89,1,606
+"603",2020-03-07,"NBA","Lakers","Milwaukee","Lakers","Winamax",1.82,29,1,23.78,1,607
+"604",2020-03-07,"NBA","Chicago","Indiana","Indiana","Betclic",1.72,29,1,20.88,1,608
+"605",2020-03-07,"Bundesliga 2","Darmstadt","Bochum","X","1xBet",3.2,4,1,8.8,1,609
+"606",2020-03-07,"Championship","Bristol","Fulham","Bristol","1xBet",3.58,4,0,-4,1,610
+"607",2020-03-07,"Premier League","Liverpool","Bournemouth","Bournemouth","Winamax",13.5,8.1,0,-8.1,1,611
+"608",2020-03-07,"Ligue 2","Ajaccio","Lorient","Lorient","Winamax",2.65,8,0,-8,1,612
+"609",2020-03-07,"Serie B","Frosinone","Cremone","Frosinone","1xBet",1.76,4,0,-4,1,613
+"610",2020-03-07,"Serie B","Perugia","Salernitana","Salernitana","1xBet",3.81,4,0,-4,1,614
+"611",2020-03-07,"Serie B","Venezia","Crotone","X","1xBet",3.22,4,0,-4,1,615
+"612",2020-03-07,"Bundesliga","Fribourg","Union berlin","Union berlin","Winamax",3.15,4,0,-4,1,616
+"613",2020-03-07,"Bundesliga","Hertha berlin","Werder breme","Werder breme","Winamax",3.15,4,0,-4,1,617
+"614",2020-03-07,"Bundesliga","Leverkusen","Francfort","Francfort","Winamax",3.95,4,0,-4,1,618
+"615",2020-03-07,"Premier League","Arsenal","West ham","West Ham","Winamax",5.6,8,0,-8,1,619
+"616",2020-03-07,"Premier League","Shefield united","Norwich","Norwich","Winamax",5.3,8,0,-8,1,620
+"617",2020-03-07,"Championship","Barnsley","cardiff","X","1xBet",3.38,4,0,-4,1,621
+"618",2020-03-07,"Championship","birmingham","reading","X","1xBet",3.56,4,0,-4,1,622
+"619",2020-03-07,"Championship","Brentford","Shefield","Shefield","1xBet",5.64,4,0,-4,1,623
+"620",2020-03-07,"Championship","Charlton","Middlesbrough","Charlton","1xBet",3.19,4,0,-4,1,624
+"621",2020-03-07,"Championship","Leeds ","Huddersfield","Huddersfield","1xBet",7.18,4,0,-4,1,625
+"622",2020-03-07,"Championship","Preston","QPR","X","1xBet",3.57,4,0,-4,1,626
+"623",2020-03-07,"Championship","Stoke ","Hull","X","1xBet",4.62,4,0,-4,1,627
+"624",2020-03-07,"Championship","Swansea","West brom","X","1xBet",3.66,4,1,10.64,1,628
+"625",2020-03-07,"Championship","Wigan","Luton","X","1xBet",3.88,4,1,11.52,1,629
+"626",2020-03-07,"Liga Secunda","Extremadura UD","oviedo","Extremadura UD","1xBet",2.88,8,0,-8,1,630
+"627",2020-03-07,"SC0","Celtic","St Miren","X","1xBet",9.1,8,0,-8,1,631
+"628",2020-03-07,"SC0","Haberdeen","hibernian","X","1xBet",3.61,8,0,-8,1,632
+"629",2020-03-07,"SC0","Hearts","Motherwell","X","1xBet",3.89,8,1,23.12,1,633
+"630",2020-03-07,"SC0","St Johnstone","Livingstone","St johnstone","1xBet",2.6,8,1,12.8,1,634
+"631",2020-03-07,"Liga NOS","Tondela","Boavista","Tondela","Winamax",2.35,4,0,-4,1,635
+"632",2020-03-07,"Liga Secunda","Huesca ","Fuenlabrada","Fuenlabrada","1xBet",4.86,8,0,-8,1,636
+"633",2020-03-07,"Liga Secunda","Numancia","Santander","X","1xBet",3.04,8,0,-8,1,637
+"634",2020-03-07,"Premier League","Burnley","Tottenham","X","Winamax",3.35,7.5,1,17.625,1,638
+"635",2020-03-07,"Bundesliga","Borussia M'Gladbach","Dortmund","Dortmund","Winamax",2.15,3.7,1,4.255,1,639
+"636",2020-03-07,"Eredivisie","Vitesse","Twente","Vitesse","1xBet",1.89,11.9,1,10.591,1,640
+"637",2020-03-07,"Eredivisie","Emmen","Venlo","Emmen","1xBet",2,11.9,1,11.9,1,641
+"638",2020-03-07,"Ligue 1","Dijon","Toulouse","Dijon","Winamax",1.86,3.7,1,3.182,1,642
+"639",2020-03-07,"Ligue 1","Metz","Nimes","Metz","Winamax",2.4,3.7,1,5.18,1,643
+"640",2020-03-07,"Ligue 1","Nice","Monaco","Monaco","Winamax",2.2,3.7,0,-3.7,1,644
+"641",2020-03-07,"Ligue 1","Reims","Brest","Reims","Winamax",2.12,3.7,1,4.144,1,645
+"642",2020-03-07,"Jupiler League","Anderlect","Waregem","Waregem","1xBet",9.1,7.4,0,-7.4,1,646
+"643",2020-03-07,"Jupiler League","Gent","Charleroi","Charleroi","1xBet",3.96,7.4,1,21.904,1,647
+"644",2020-03-07,"Jupiler League","kortwijk","antwerp","antwerp","1xBet",2.42,7.4,1,10.508,1,648
+"645",2020-03-07,"Jupiler League","Mouscron","Waasland-bereven","Mouscron","1xBet",2.21,7.4,1,8.954,1,649
+"646",2020-03-07,"Jupiler League","Oostende","Genk","Oostende","1xBet",3.77,7.4,0,-7.4,1,650
+"647",2020-03-07,"Liga Secunda","Almeria","Deportivo la corogne","Almeria","Winamax",1.92,7.4,1,6.808,1,651
+"648",2020-03-07,"Liga NOS","FC Porto","Rio Ave","Rio Ave","Winamax",7,3.7,0,-3.7,1,652
+"649",2020-03-07,"NBA","Charlotte","Houston","Charlotte","1xBet",3.86,33,1,94.38,1,653
+"650",2020-03-08,"NBA","Grizzlies de Memphis","Atlanta Hawks","Grizzlies","1xBet",1.45,33,1,14.85,1,654
+"651",2020-03-08,"NBA","GSW","Philadelphie","Philadelphie","1xBet",1.67,33,0,-33,1,655
+"652",2020-03-08,"NBA","Portland trail blazers","Sacremento","Portland","1xBet",1.71,33,0,-33,1,656
+"653",2020-03-08,"Liga Secunda","Rayo Vallecano","Elche","Elche","1xBet",4.75,17,1,63.75,1,659
+"654",2020-03-08,"Eredivisie","Utrecht","Sparta Rotterdam","Utrecht","1xBet",1.69,25.57,1,17.6433,1,660
+"655",2020-03-08,"SC0","Ross County","Rangers","Ross County","1xBet",11.5,17,0,-17,1,661
+"656",2020-03-08,"Bundesliga 2","Dresden","Erzgebirge","X","1xBet",2.98,8.5,0,-8.5,1,662
+"657",2020-03-08,"Bundesliga 2","Sandhausen","St Pauli","X","1xBet",3.17,8.5,1,18.445,1,663
+"658",2020-03-08,"Ligue 1","St Etienne","Bordeaux","St Etienne","Winamax",2.25,8.5,0,-8.5,1,664
+"659",2020-03-08,"Premier League","Chelsea","Everton","Chelsea","Winamax",1.88,17,1,14.96,1,665
+"660",2020-03-08,"Serie A","Milan","Genoa","Genoa","1xBet",7.1,25.57,1,155.977,1,666
+"661",2020-03-08,"Serie A","Sampdoria","Verona","Verona","1xBet",2.86,25.57,0,-25.57,1,667
+"662",2020-03-08,"Serie B","Juve stabia","Spezia","Spezia","1xBet",2.01,8.5,0,-8.5,1,668
+"663",2020-03-08,"Serie B","Virtus Entella","Ascoli","Virtus Entella","1xBet",2.12,8.5,1,9.52,1,669
+"664",2020-03-08,"Championship","Derby country","Blackburn","X","1xBet",3.24,8.5,0,-8.5,1,670
+"665",2020-03-08,"Liga Secunda","Malaga","Real Zaragoza","X","1xBet",2.96,17,0,-17,1,671
+"666",2020-03-08,"Liga NOS","Belenenses","Famalicao","Famalicao","1xBet",2.46,8.5,0,-8.5,1,672
+"667",2020-03-08,"Premier League","Manchester united","Manchester city","MU","Winamax",4.6,17,1,61.2,1,673
+"668",2020-03-08,"Ligue 1","Stade rennais","Montpellier","X","Winamax",3.25,8.5,0,-8.5,1,674
+"669",2020-03-08,"Bundesliga","Mayence ","Fortuna Dusseldorf","Dusseldorf","1xBet",4.5,8.5,0,-8.5,1,675
+"670",2020-03-08,"Serie A","Udinesse","Fiorentina","X","Winamax",3.15,25.57,1,54.9755,1,676
+"671",2020-03-08,"Liga Secunda","Alcorcon","Mirandes","X","1xBet",3.01,17,0,-17,1,677
+"672",2020-03-08,"Liga Secunda","Gijon","Las palmas","Las palmas","1xBet",4.36,17,0,-17,1,678
+"673",2020-03-08,"Liga NOS","Lisbon","Alaves","Lisbon","1xBet",1.26,8.5,1,2.21,1,679
+"674",2020-03-08,"Liga Secunda","Tenerife","Ponferradina","X","1xBet",2.9,21.96,0,-21.96,1,680
+"675",2020-03-08,"Ligue 1","Lille","Lyon","X","1xBet",3.4,11,0,-11,1,681
+"676",2020-03-08,"NBA","Boston","OKC","Boston celtics","1xBet",1.46,44,0,-44,1,682
+"677",2020-03-08,"NBA","Houston","Orlando","Orlando","1xBet",3.86,44,1,125.84,1,683
+"678",2020-03-08,"NBA","Knicks","Detroit","Detroit","1xBet",2.95,44,0,-44,1,684
+"679",2020-03-08,"NBA","Washington","Miami","Washington","1xBet",2.768,44,0,-44,1,685
+"680",2020-03-08,"NBA","Sacramento","Toronto Raptors","Sacramento","1xBet",2.95,44,0,-44,1,686
+"681",2020-03-09,"Turquie","Genclerbirligi","Antalyaspor","X","1xBet",3.54,20.3,1,51.562,1,687
+"682",2020-03-09,"Serie A","Sassuolo","Brescia","Brescia","Winamax",6.1,30.45,0,-30.45,1,688
+"683",2020-03-09,"Bundesliga 2","Stuttgart","Bielefeld","X","1xBet",3.74,10.35,1,28.359,1,689
+"684",2020-03-09,"Ligue 2","Lens","Orléans","Orléans","Winamax",7.25,20.6,0,-20.6,1,690
+"685",2020-03-09,"Premier League","Leicester","Aston Villa","Aston Villa","Winamax",6,20.6,0,-20.6,1,691
+"686",2020-03-10,"NBA","Utah","Toronto Raptors","Toronto","1xBet",2.975,45,1,88.875,1,692
+"687",2020-03-10,"NBA","Atlanta","Charlotte","Charlotte","1xBet",2.75,45,0,-45,1,693
+"688",2020-03-10,"NBA","Denver nuggets","Milwaukee","Milwaukee","1xBet",2.75,45,0,-45,1,694
+"689",2020-03-11,"NBA","Lakers","Brooklyn nets","Brooklyn","1xBet",6.85,40,1,234,1,695
+"690",2020-03-11,"NBA","GSW","Clippers","GSW","1xBet",7.7,40,0,-40,1,696
+"691",2020-03-11,"Bundesliga","Borussia M'Gladbach","Cologne","Borussia M'Gladbach","Winamax",1.92,12.15,1,11.178,1,697
+"692",2020-03-11,"SC0","St Mirren","Hearts","X","1xBet",3.22,24.54,0,-24.54,1,698
+"693",2020-03-12,"NBA","Atlanta","Knicks","Knicks","1xBet",2.768,48.11,1,85.05848,1,699
+"694",2020-03-12,"NBA","Dallas","Denver","Dallas","Winamax",2.25,48.11,1,60.1375,1,700

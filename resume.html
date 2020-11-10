@@ -1,25 +1,120 @@
-<!doctype html>
-
-<!-- this is a comment for human! -->
-
+<!DOCTYPE html>
 <html lang="en">
-  <body>
-
-  <header>
+<header>
     <title>Sébastien Cararo's Resume</title>
-    <link rel="stylesheet" href="css/master.css">
     <link rel="FaviconIcon" href="favicon.ico" type="image/x-icon">
     <link rel="shortcut" href="favicon.ico" type="image/x-icon">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="name" content="Sébastien Cararo's Portfolio">
     <meta name="robots" content="noindex, nofollow">
   </header>
+<head>
+<title>Sébastien Cararo's Resume</title>
+<link rel="shortcut" href="favicon.ico" type="image/x-icon">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-    <hr>
+body {
+  background-color:White;/* set the background color here */
+    color:black;/* set the text color to black here */
+    font-family: Arial, Helvetica, sans-serif;/* set the font here */
+    text-align: center; /* set the text alignment here */
+}
 
-    <!--<img src="images/headshot.jpg" alt="Sébastien Cararo's headshot" width="20%">-->
+h1 {
+    margin-bottom: 0.5rem;
+    margin-top: 3rem;
+   }
 
-    <h1>Sébastien Cararo</h1>
+  h2 {
+    color: #075AAB;
+    margin-bottom:2.5rem;
+    margin-top:2.5rem;
+    /* set the text color of to #075AAB here */
+    /* set both the bottom margin and top margin to 2.5rem here */
+   }
+
+  h3 {
+    margin-bottom: 0;
+    margin-top: 2rem;
+  }
+
+  h4 {
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  h5 {
+    margin-top: 0.5rem;
+  }
+
+  hr {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+  }
+
+  /* this controls how the bullet points in the resume page looks */
+  ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+  }
+
+/* Style the header */
+.header {
+  background-color: GAINSBORO;
+  padding: 10px;
+  text-align: center;
+  font-size: 17px;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.left {
+  width: 55%;
+}
+
+/* right column */
+.column.right {
+  width: 45%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+
+<div class="header">
+  <h1>Sébastien Cararo</h1>
     <h4>MSc student in <i>Entrepreneurship</i> and <i>Smart Networks and Energy</i> at Ecole Centrale de Lille, in France. </br>I am also doing a Master of Sciences in Quantitative Finance at Lille University and will graduate in 2021.</h4>
 
     <p>Email: <a href="mailto:sebcararo@hotmail.fr" target="_blank">sebcararo@hotmail.fr</a></p>
@@ -29,7 +124,11 @@
     <h2>Portfolio</h2>
       <h3>GitHub: <a href="https://github.com/Seb943" target="_blank">https://github.com/Seb943</a></h3>
 
-    <h2>Education</h2>
+
+</div>
+
+<div class="row">
+  <div class="column left" style="background-color:White;"><h2>Education</h2>
     <h3>Lille University</h3>
     <h4>Quantitative Finance MSc </h4>
         <h5>September 2020 (-June 2021)</h5>
@@ -70,9 +169,43 @@
     <li><u>Lectures :</u> 35+ hours/week</li>
     <li><u>Assignments :</u> Multiple times a week (both written and oral)</li>
     </ul>
+<h2>Other Experience</h2>
+
+    <h3>Ground Army Intern</h3>
+    <h4>French Army – 61st artillery regiment</h4>
+    <h5>July 2019 - August 2019</h5>
+    <ul>
+        <li>Highly intensive three-weeks long military preparation (<i>Préparation Militaire Supérieure</i>)</li>
+        <li>I learned a lot about men management, organization, giving orders and obeying hierarchy</li>
+        <li>Decision making under high-pressure conditions</li>
+        <li><u>Army-related knowledge :</u> ethics, guns and equipments, code of conduct</li>
+      </ul>
+      
+      
+    <h2>Other</h2>
+    <ul>
+    <li><u>Programming languages :</u> R, C, Python, Java, Stata, VBA, Matlab, HTML, CSS</li>
+    <li><u>Tools :</u> Office Pack, Azure, SysML, LTSpice, Azure, DevOps</li>
+    <li><u>MBTI profile :</u> Architect (<a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a>)</li>
+    <li>French-Canadian Citizen</li>
+    <li>Car driving license</li>
+
+      </ul>
 
 
-    <h2>Professional Experiences</h2>
+    <h2>Online Courses </h2>
+    <h4>Certificates available on request</h4>
+    <ul>
+<li><a href="https://www.coursera.org/learn/social-psychology?" target="_blank">Social Psychology </a>– Wesleyan University (37 hours – June 2020)</li>
+<li><a href="https://www.coursera.org/learn/social-innovation" target="_blank">Becoming a changemaker : Introduction to social innovation </a>– University of Cape Town (18 hours – May 2020)</li>
+<li><a href="https://www.coursera.org/learn/developing-ai-applications-azure?" target="_blank">Developing AI applications on Azure </a>– LearnQuest (15 hours – June 2020)</li>
+<li><a href="https://www.coursera.org/learn/mindshift?" target="_blank">Mindshift : Break through obstacles to learning and discover your hidden potential </a>– McMaster University (8 hours – May 2020)</li>
+<li><a href="https://www.coursera.org/learn/uva-darden-business-society?" target="_blank">New models of business in society </a>– University of Virginia (6 hours – May 2020)</li>
+</ul>
+
+    </div>
+  <div class="column right" style="background-color:White;">
+<h2>Professional Experiences</h2>
 
     <h3>Data Science Intern</h3>
     <h4>Witted S.R.L., Rovereto, ITALY</h4>
@@ -110,45 +243,15 @@
         <li>Internal and external logistics basics </li>
         <li>Stock management </li>
       </ul>
-      
-    <h2>Other Experience</h2>
+    </div>
+</div>
 
-    <h3>Ground Army Intern</h3>
-    <h4>French Army – 61st artillery regiment</h4>
-    <h5>July 2019 - August 2019</h5>
-    <ul>
-        <li>Highly intensive three-weeks long military preparation (<i>Préparation Militaire Supérieure</i>)</li>
-        <li>I learned a lot about men management, organization, giving orders and obeying hierarchy</li>
-        <li>Decision making under high-pressure conditions</li>
-        <li><u>Army-related knowledge :</u> ethics, guns and equipments, code of conduct</li>
-      </ul>
-      
-      
-    <h2>Other</h2>
-    <ul>
-    <li><u>Programming languages :</u> R, C, Python, Java, Stata, VBA, Matlab, HTML, CSS</li>
-    <li><u>Tools :</u> Office Pack, Azure, SysML, LTSpice, Azure, DevOps</li>
-    <li><u>MBTI profile :</u> Architect (<a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a>)</li>
-    <li>French-Canadian Citizen</li>
-    <li>Car driving license</li>
-
-      </ul>
-
-
-    <h2>Online Courses </h2>
-    <h4>Certificates available on request</h4>
-    <ul>
-<li><a href="https://www.coursera.org/learn/social-psychology?" target="_blank">Social Psychology </a>– Wesleyan University (37 hours – June 2020)</li>
-<li><a href="https://www.coursera.org/learn/social-innovation" target="_blank">Becoming a changemaker : Introduction to social innovation </a>– University of Cape Town (18 hours – May 2020)</li>
-<li><a href="https://www.coursera.org/learn/developing-ai-applications-azure?" target="_blank">Developing AI applications on Azure </a>– LearnQuest (15 hours – June 2020)</li>
-<li><a href="https://www.coursera.org/learn/mindshift?" target="_blank">Mindshift : Break through obstacles to learning and discover your hidden potential </a>– McMaster University (8 hours – May 2020)</li>
-<li><a href="https://www.coursera.org/learn/uva-darden-business-society?" target="_blank">New models of business in society </a>– University of Virginia (6 hours – May 2020)</li>
-</ul>
-
+<div class="footer">
   <footer>
   <hr>
   <p><a href="index.html">Back to my portal</a><p>
   </footer>
-  </body>
+</div>
 
+</body>
 </html>
